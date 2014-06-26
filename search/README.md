@@ -5,6 +5,6 @@ This is a generic Java search library that can solve arbitrary search problems. 
 􏰂 Depth-First Tree Search          􏰂 Depth-First Graph Search
 􏰂 Breadth-First Tree Search        􏰂 Breadth-First Graph Search
 􏰂 Iterative-deepening Tree Search  􏰂 Iterative-deepening Graph Search
-                    Informed Search Algorithms
+                     Informed Search Algorithms
 􏰂 Best-First Tree Search           􏰂 Best-First Graph Search
 􏰂 A* Tree Search                   􏰂 A* Graph Search
