@@ -4,7 +4,7 @@ import java.util.LinkedHashSet;
 
 import search.*;
 
-public class BFTS_Demo {
+public class Demo {
 
 	public static void main(String[] args){
 
