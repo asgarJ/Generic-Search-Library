@@ -13,9 +13,10 @@ public class Node {
 		this.parent = parent;
 		this.action = a;
 		this.state = s;
-		if (parent == null) this.actualCost = 0;
+		if (parent == null)
+			this.actualCost = 0;
 		else
-		this.actualCost = this.parent.actualCost + this.action.getActionCost(); 
+			this.actualCost = this.parent.actualCost + this.action.getActionCost(); 
 	}
 	public Node(Node parent, Action a, State s, int depth) {
 		this.parent = parent;
