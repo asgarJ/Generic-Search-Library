@@ -4,3 +4,9 @@ This is a generic Java search library that can solve arbitrary search problems. 
 
         A* Tree Search                  A* Graph Search
         Best-First Tree Search          Best-First Graph Search
+
+                Uninformed Search Algorithms
+
+        Depth-First Tree Search         Depth-First Graph Search
+        Breadth-First Tree Search       Breadth-First Graph Search
+        Iterative-deepening Tree Search and Graph Search
