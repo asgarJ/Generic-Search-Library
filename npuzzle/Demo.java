@@ -2,7 +2,7 @@ package npuzzle;
 
 import search.*;
 
-public class BFTS_Demo {
+public class Demo {
 	public static void main(String[] args) {
 		//System.out.println("This is a demonstration of breadth-first graph search on 8-puzzle");
 		
