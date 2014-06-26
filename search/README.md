@@ -2,5 +2,5 @@ This is a generic Java search library that can solve arbitrary search problems. 
 
                 Informed Search Algorithms
                 
-        A* Tree Search                  A* Graph Search
+  A* Tree Search                  A* Graph Search
         Best-First Tree Search          Best-First Graph Search
